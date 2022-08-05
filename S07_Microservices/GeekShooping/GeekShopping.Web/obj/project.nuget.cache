@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yat1BJdPtd48dktdCyFbD4fpB/KDfNVI8F3galJJiU2K5sS7D+vzQV7QI4XJiDMILVXkb3N/jwYJnrxhG3cxWQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\Walen\\erudio-microservices-dotnet6\\S07_Microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0-preview.6.21355.2.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.0-preview.6.21355.2.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.razor.language.6.0.0-preview.6.21355.2.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.0-preview.6.21355.2\\microsoft.codeanalysis.razor.6.0.0-preview.6.21355.2.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0-preview.6.21352.12\\microsoft.extensions.dependencymodel.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.6.21352.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.text.encodings.web\\6.0.0-preview.6.21352.12\\system.text.encodings.web.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.text.json\\6.0.0-preview.6.21352.12\\system.text.json.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\walen.soares\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
